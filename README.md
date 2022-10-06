@@ -6,7 +6,6 @@
 A simple patchmod that makes glowpods count as darklight. 
 For those insect+darkness meme plays.
 
-Safe to add/remove from save.
 Requires Ideology.
 
 Idea by: Valliecane
@@ -28,6 +27,7 @@ https://ko-fi.com/G2G55DDYD]![Image](https://i.imgur.com/Utx6OIH.png)
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
