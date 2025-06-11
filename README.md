@@ -7,6 +7,8 @@ For those insect+darkness meme plays.
 
 Requires Ideology.
 
+- Added support for [Vanilla Factions Expanded - Insectoids 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3309003431)
+
 Idea by: Valliecane
 	
 ![Image](https://i.imgur.com/Ds0rBAD.png)
@@ -27,6 +29,6 @@ Since modding is just a hobby for me I expect no donations to keep modding. If y
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-[![Image](https://img.shields.io/github/v/release/emipa606/GlowpodsUseDarklight?label=latest%20version&style=plastic&labelColor=0070cd&color=white)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2738028630)
+[![Image](https://img.shields.io/github/v/release/emipa606/GlowpodsUseDarklight?label=latest%20version&style=plastic&labelColor=0070cd&color=white)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2738028630) | tags:  dark environment
