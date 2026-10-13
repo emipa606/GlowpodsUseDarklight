@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <!-- Change the lightcolor to darklight specific -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>/Defs/ThingDef[defName="VFEI2_LargeGlowPod"]</xpath>
+    <success>Always</success>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="VFEI2_LargeGlowPod" or defName="VFEI2_GlowPodFormation" or defName="VFEI2_GlowPodSpire" or defName="VFEI2_StaticPod" or defName="VFEI2_FoamPod"]/comps/li[@Class="CompProperties_Glower"]/glowColor</xpath>
+      <value>
+        <glowColor>(78, 226, 229, 0)</glowColor>
+      </value>
+    </match>
+  </Operation>
+</Patch>
